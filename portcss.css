@@ -1,4 +1,12 @@
 body {
+  padding-top: 70px;
+}
+
+section, .border {
+  border: 3px solid blue;
+}
+
+/*body {
   background:url("https://image.ibb.co/b6fQGS/canstockphoto40712325.jpg")
 }
 
@@ -54,3 +62,4 @@ h3 {
 
 
 
+*/
