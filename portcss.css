@@ -2,7 +2,7 @@ body {
   padding-top: 70px;
 }
 
-section, .border {
+section {
   border: 3px solid blue;
 }
 
