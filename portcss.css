@@ -1,10 +1,33 @@
 body {
   padding-top: 70px;
+  font-family: 'Shanti', sans-serif;
 }
 
-section {
-  border: 3px solid blue;
+.bodygraph {
+  max-height: 500px;
+  max-width: 500px;
 }
+.abouts {
+  padding-top: 60px;
+}
+
+.services {
+  padding-top: 60px;
+}
+
+.testimonials {
+  padding-top: 60px;
+}
+
+.author {
+  font-style: italic;
+  font-weight: lighter;
+}
+
+.contact {
+  padding-top: 60px;
+}
+
 
 /*body {
   background:url("https://image.ibb.co/b6fQGS/canstockphoto40712325.jpg")
